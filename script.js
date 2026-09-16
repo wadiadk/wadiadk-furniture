@@ -1,0 +1,1 @@
+let count=0;const n=document.getElementById('count'),t=document.getElementById('toast');document.querySelectorAll('.products button').forEach(b=>b.onclick=()=>{n.textContent=++count;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1200)});
