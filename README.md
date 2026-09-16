@@ -1,17 +1,7 @@
-# WADIADK ROOT IMAGE FIX
-IMPORTANT: Upload every file in this ZIP directly to the repository root.
-There is NO assets folder.
+# WADIADK PREMIUM STORE V2
 
-You should see:
-index.html
-styles.css
-script.js
-hero.jpg
-sofa.jpg
-chair.jpg
-table.jpg
-bed.jpg
-storage.jpg
+GitHub Pages ready. Upload every file directly to repository root. No assets folder and no build step.
 
 GitHub Pages: main / (root).
-Product prices are demo catalog values.
+
+Product names and prices are demo catalog values until replaced with final commercial catalog.
