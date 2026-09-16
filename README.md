@@ -1,13 +1,9 @@
-# WADIADK Furniture
+# WADIADK Furniture — Premium GitHub Pages Store
 
-Modern Living. Distinctive Design.
+Upload the **contents** of this folder to the repository root.
 
-Static furniture storefront prepared for GitHub Pages.
+GitHub Pages: Settings → Pages → Deploy from a branch → main → /(root) → Save.
 
-## Upload
-Upload `index.html`, `styles.css`, `script.js`, `README.md` and the `assets` folder to the repository root.
+All displayed furniture images are included locally in `assets/`, so the site does not depend on external image URLs.
 
-## GitHub Pages
-Settings → Pages → Deploy from a branch → `main` → `/(root)` → Save.
-
-Product names and prices are demo content until the final commercial catalog is confirmed.
+Prices and product names are demo catalog content until replaced with the final commercial catalog.
