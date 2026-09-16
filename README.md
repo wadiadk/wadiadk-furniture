@@ -1,9 +1,17 @@
-# WADIADK Furniture — Premium GitHub Pages Store
+# WADIADK ROOT IMAGE FIX
+IMPORTANT: Upload every file in this ZIP directly to the repository root.
+There is NO assets folder.
 
-Upload the **contents** of this folder to the repository root.
+You should see:
+index.html
+styles.css
+script.js
+hero.jpg
+sofa.jpg
+chair.jpg
+table.jpg
+bed.jpg
+storage.jpg
 
-GitHub Pages: Settings → Pages → Deploy from a branch → main → /(root) → Save.
-
-All displayed furniture images are included locally in `assets/`, so the site does not depend on external image URLs.
-
-Prices and product names are demo catalog content until replaced with the final commercial catalog.
+GitHub Pages: main / (root).
+Product prices are demo catalog values.
